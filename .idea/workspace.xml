@@ -20,11 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9add0748-71f2-4e34-a4ed-f678131edf1a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ApiController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ApiController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Deal.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Deal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Helpers/function.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Helpers/function.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/DealController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/DealController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_06_04_143302_create_deals_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_06_04_143302_create_deals_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/deal/add.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/deal/add.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/pages/deal/deal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/deal/deal.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/9fDPfGxZenQ4IQjldS0z1QOhQPjCjvqBNOLXAhvW" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/YsvPDNS0SO1EZgXBLA58IAx9uOZ9PWjiASt1pxxV" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/sessions/YsvPDNS0SO1EZgXBLA58IAx9uOZ9PWjiASt1pxxV" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,6 +181,7 @@
       <workItem from="1591876383757" duration="803000" />
       <workItem from="1591877656645" duration="21000" />
       <workItem from="1591879044997" duration="434000" />
+      <workItem from="1591881332449" duration="3788000" />
     </task>
     <servers />
   </component>
@@ -217,10 +221,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2006" y="51" width="1499" height="944" maximized="true" key="dock-window-1/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1591736923372" />
-    <state x="2533" y="106" width="694" height="828" key="find.popup" timestamp="1591326805963">
+    <state x="2533" y="106" width="694" height="828" key="find.popup" timestamp="1591886341494">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2533" y="106" width="694" height="828" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1591326805963" />
+    <state x="2533" y="106" width="694" height="828" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1591886341494" />
     <state x="2543" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1591327933390">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

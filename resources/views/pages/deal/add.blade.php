@@ -23,7 +23,7 @@
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="form-group">
                             <label>Out Bound Date</label>
-                            <input type="text" name="outboundDate" class="form-control date" data-toggle="date-picker" data-format="" data-single-date-picker="true" required>
+                            <input type="text" name="outboundDate" class="form-control date" data-toggle="date-picker"   data-single-date-picker="true" required>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-12">

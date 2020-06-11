@@ -16,8 +16,8 @@ class CreateDealsTable extends Migration
         Schema::create('deals', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->unsignedBigInteger('location_id');
-            $table->dateTime('outboundDate');
-            $table->dateTime('inboundDate');
+            $table->string('outboundDate',50);
+            $table->string('inboundDate',50);
             $table->string('price', 50);
             $table->string('packageDeeplinkUrl', 400);
             $table->string('hotelName', 200);

@@ -46,8 +46,8 @@ class DealController extends Controller
         $deal = new Deal();
 
         $deal->location_id = $request->location_id;
-        $deal->outboundDate =date('Y-m-d',strtotime($request->outboundDate));
-        $deal->inboundDate = date('Y-m-d',strtotime($request->inboundDate));
+        $deal->outboundDate = date('d/m/Y',strtotime($request->outboundDate)) ;
+        $deal->inboundDate =  date('d/m/Y',strtotime($request->inboundDate)) ;
         $deal->price = $request->price;
         $deal->packageDeeplinkUrl = $request->packageDeeplinkUrl;
         $deal->hotelName = $request->hotelName;
@@ -108,8 +108,8 @@ class DealController extends Controller
     public function update(Request $request, Deal $deal)
     {
         $deal->location_id = $request->location_id;
-        $deal->outboundDate =date('Y-m-d',strtotime($request->outboundDate));
-        $deal->inboundDate = date('Y-m-d',strtotime($request->inboundDate));
+        $deal->outboundDate = $request->outboundDate;
+        $deal->inboundDate = $request->inboundDate;
         $deal->price = $request->price;
         $deal->packageDeeplinkUrl = $request->packageDeeplinkUrl;
         $deal->hotelName = $request->hotelName;
@@ -159,8 +159,8 @@ class DealController extends Controller
         $deal = new Deal();
 
         $deal->location_id = $request->location_id;
-        $deal->outboundDate =date('Y-m-d',strtotime($request->outboundDate));
-        $deal->inboundDate = date('Y-m-d',strtotime($request->inboundDate));
+        $deal->outboundDate =  $request->outboundDate;
+        $deal->inboundDate =  $request->inboundDate;
         $deal->price = $request->price;
         $deal->packageDeeplinkUrl = $request->packageDeeplinkUrl;
         $deal->hotelName = $request->hotelName;
