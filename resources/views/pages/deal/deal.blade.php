@@ -63,12 +63,11 @@
                 <tbody>
                 @if(count($deals))
                     @foreach($deals as $deal)
-                        {{customCheckDate($deal->outboundDate)}}
                         <tr>
                             <td>{{$deal->id}}</td>
                             <td>{{$deal->location->locationName}}</td>
-                            <td style="background-color: {{customCheckDate($deal->outboundDate)?'yellow':'transparent'}}" >{{$deal->outboundDate}}</td>
-                            <td style="background-color: {{customCheckDate($deal->inboundDate)?'yellow':'transparent'}}">{{$deal->inboundDate}}</td>
+                            <td style="background-color: {{time()>strtotime($deal->outboundDate)?'yellow':'transparent'}}" >{{date('d/m/Y', strtotime($deal->outboundDate))}}</td>
+                            <td style="background-color: {{time()>strtotime($deal->inboundDate)?'yellow':'transparent'}}">{{date('d/m/Y', strtotime($deal->inboundDate))}}</td>
                             <td>{{$deal->price}}</td>
                             <td>{{$deal->hotelName}}</td>
                             <td>{{$deal->hotelRoomBoard}}</td>

@@ -2,7 +2,7 @@
 
 @section('style')
 @endsection
-    
+
 
 @section('content')
 
@@ -59,9 +59,6 @@
                         </div>
                     </div>
                 </form>
-                <footer class="footer footer-alt">
-                    <p class="text-muted">Don't have an account? <a href="{{ route('register') }}" class="text-muted ml-1"><b>Sign Up hear</b></a></p>
-                </footer>
             </div>
         </div>
     </div>
@@ -69,5 +66,5 @@
 @endsection
 
 @section('script')
-    
+
 @endsection

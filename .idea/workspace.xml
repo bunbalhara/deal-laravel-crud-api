@@ -24,10 +24,8 @@
       <change beforePath="$PROJECT_DIR$/app/Helpers/function.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Helpers/function.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/DealController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/DealController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/migrations/2020_06_04_143302_create_deals_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_06_04_143302_create_deals_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/deal/add.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/deal/add.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/pages/deal/deal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/deal/deal.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/9fDPfGxZenQ4IQjldS0z1QOhQPjCjvqBNOLXAhvW" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/YsvPDNS0SO1EZgXBLA58IAx9uOZ9PWjiASt1pxxV" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/sessions/YsvPDNS0SO1EZgXBLA58IAx9uOZ9PWjiASt1pxxV" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +179,7 @@
       <workItem from="1591876383757" duration="803000" />
       <workItem from="1591877656645" duration="21000" />
       <workItem from="1591879044997" duration="434000" />
-      <workItem from="1591881332449" duration="3788000" />
+      <workItem from="1591881332449" duration="5246000" />
     </task>
     <servers />
   </component>
