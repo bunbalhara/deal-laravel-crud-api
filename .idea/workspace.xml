@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9add0748-71f2-4e34-a4ed-f678131edf1a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ApiController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ApiController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Deal.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Deal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/deal/deal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/deal/deal.blade.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/ali/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/erp/vendor/yajra/laravel-datatables-oracle" />
+      <path value="$PROJECT_DIR$/erp/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/erp/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/erp/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/erp/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/erp/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/erp/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/erp/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/erp/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/erp/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/erp/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/erp/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/erp/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/erp/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/erp/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/erp/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/erp/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/erp/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/erp/vendor/laravel/helpers" />
+      <path value="$PROJECT_DIR$/erp/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/erp/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/erp/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/erp/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/erp/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/erp/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/erp/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/erp/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/erp/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/erp/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/erp/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/erp/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/erp/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/erp/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/erp/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/erp/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/erp/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/erp/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/erp/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/erp/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/erp/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/erp/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/erp/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/erp/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/erp/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/erp/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/erp/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/erp/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/erp/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/erp/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/erp/vendor/composer" />
+      <path value="$PROJECT_DIR$/erp/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/erp/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/erp/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/erp/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/erp/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/erp/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/erp/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/erp/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/erp/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/erp/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/erp/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/erp/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/erp/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/erp/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/erp/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/erp/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/erp/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/erp/vendor/theseer/tokenizer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1YUYkrMgo1VJ0j5dV5bPnWgQyRC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9add0748-71f2-4e34-a4ed-f678131edf1a" name="Default Changelist" comment="" />
+      <created>1582998785541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582998785541</updated>
+      <workItem from="1582998788155" duration="17353000" />
+      <workItem from="1583025165422" duration="19066000" />
+      <workItem from="1583064539388" duration="21000" />
+      <workItem from="1591287967108" duration="1114000" />
+      <workItem from="1591289178242" duration="548000" />
+      <workItem from="1591290199867" duration="38000" />
+      <workItem from="1591290238826" duration="202000" />
+      <workItem from="1591290450499" duration="40942000" />
+      <workItem from="1591344507765" duration="12000" />
+      <workItem from="1591345200643" duration="187000" />
+      <workItem from="1591356759354" duration="361000" />
+      <workItem from="1591551769265" duration="1245000" />
+      <workItem from="1591554588662" duration="9191000" />
+      <workItem from="1591666535398" duration="58000" />
+      <workItem from="1591717648847" duration="11847000" />
+      <workItem from="1591737333467" duration="6000" />
+      <workItem from="1591788448448" duration="4326000" />
+      <workItem from="1591796997764" duration="36000" />
+      <workItem from="1591797470886" duration="211000" />
+      <workItem from="1591798342582" duration="688000" />
+      <workItem from="1591876234488" duration="136000" />
+      <workItem from="1591876383757" duration="803000" />
+      <workItem from="1591877656645" duration="21000" />
+      <workItem from="1591879044997" duration="434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2650" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591286824006">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2650" y="323" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1591286824006" />
+    <state x="2571" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591279657366">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2571" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1591279657366" />
+    <state x="2629" y="268" key="FileChooserDialogImpl" timestamp="1591799028331">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2629" y="268" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1591799028331" />
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1591290215091">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1591290215091" />
+    <state x="2006" y="51" width="1499" height="944" maximized="true" key="dock-window-1" timestamp="1591736923372">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2006" y="51" width="1499" height="944" maximized="true" key="dock-window-1/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1591736923372" />
+    <state x="2533" y="106" width="694" height="828" key="find.popup" timestamp="1591326805963">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2533" y="106" width="694" height="828" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1591326805963" />
+    <state x="2543" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1591327933390">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="229" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1591327933390" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/pages/theme/theme.blade.php</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/pages/deal/add.blade.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
