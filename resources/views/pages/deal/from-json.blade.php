@@ -49,7 +49,7 @@
                     formData.append('hotelTrustYouReviewsReviewCount',json.hotelData.trustYouReviews.reviewCount);
                     formData.append('hotelTrustYouReviewsReviewScore',json.hotelData.trustYouReviews.reviewScore);
                     formData.append('hotelTrustYouReviewsImageUrl',json.hotelData.trustYouReviews.imageUrl);
-                    formData.append('hotelDefaultImg',json.hotelData.default_img);
+                    formData.append('hotelDefaultImg',json.hotelData.default_img.url_medium);
                     formData.append('flightDataTakeoffHour',json.flightData.takeoff_hour);
                     formData.append('flightDataLandingHour',json.flightData.landing_hour);
                     formData.append('flightDataTravelDurationFormat',json.flightData.travel_duration_format);

@@ -85,7 +85,7 @@
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="form-group">
                             <label>Hotel Default Image</label>
-                            <input type="text" value="{{$deal->flightDataTakeoffHour}}" name="flightDataTakeoffHour" name="hotelDefaultImg" class="form-control" required/>
+                            <input type="text" value="{{$deal->hotelDefaultImg}}" name="flightDataTakeoffHour" name="hotelDefaultImg" class="form-control" required/>
                         </div>
                     </div>
 
